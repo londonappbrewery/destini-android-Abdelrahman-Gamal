@@ -1,23 +1,23 @@
 <resources>
     <string name="app_name">Destini</string>
 
-    <string name="T1_Story">Your car has blown a tire on a winding road in the middle of nowhere with no cell phone reception. You decide to hitchhike. A rusty pickup truck rumbles to a stop next to you. A man with a wide brimmed hat with soulless eyes opens the passenger door for you and asks: \"Need a ride, boy?\". </string>
-    <string name="T1_Ans1">I\'ll hop in. Thanks for the help! </string>
-    <string name="T1_Ans2">Better ask him if he\'s a murderer first. </string>
+    <string name="T1_Story">
+سيارتك في مهب الإطارات على طريق متعرج في منتصف أي مكان دون استقبال الهاتف الخليوي. عليك أن تقرر توصيله. شاحنة صغيرة تلتقط الصدأ إلى جانبك. رجل ذو قبعه عريضه الحواف مع عيون بلا روح يفتح باب الراكب لك ويسأل: \ "هل تحتاج إلى ركوب ، فتى؟ \". </string>
+    <string name="T1_Ans1">أنا سوف القفزة. شكرا للمساعدة!</string>
+    <string name="T1_Ans2">اسأله أفضل إذا كان القاتل أولاً.</string>
 
 
-    <string name="T2_Story">He nods slowly, unphased by the question.</string>
-    <string name="T2_Ans1">At least he\'s honest. I\'ll climb in.</string>
-    <string name="T2_Ans2">Wait, I know how to change a tire.</string>
+    <string name="T2_Story">انه يميل ببطء ، دون تغيير في السؤال.</string>
+    <string name="T2_Ans1">على الأقل هو صادق. أنا سوف تسلق في.</string>
+    <string name="T2_Ans2">انتظر ، أنا أعرف كيف أغير الإطارات.</string>
 
 
-    <string name="T3_Story">As you begin to drive, the stranger starts talking about his relationship with his mother. He gets angrier and angrier by the minute. He asks you to open the glovebox. Inside you find a bloody knife, two severed fingers, and a cassette tape of Elton John. He reaches for the glove box.</string>
-    <string name="T3_Ans1">I love Elton John! Hand him the cassette tape.</string>
-    <string name="T3_Ans2">It\'s him or me! You take the knife and stab him.</string>
+    <string name = "T3_Story"> عندما تبدأ في القيادة ، يبدأ الشخص الغريب في الحديث عن علاقته بوالدته. يزداد غضبا وغضبا في كل دقيقة. يطلب منك فتح صندوق القفازات. في الداخل تجد سكينا دامية ، واثنين من الأصابع المقطوعة ، وشريط كاسيت لإلتون جون. يصل إلى صندوق القفازات. </string>
+    <string name = "T3_Ans1"> أحب إلتون جون! سلم له شريط الكاسيت. </string>
+    <string name = "T3_Ans2"> إنه هو أو أنا! أنت تأخذ السكين وتطعنه. </string>
 
 
-    <string name="T4_End">What? Such a cop out! Did you know traffic accidents are the second leading cause of accidental death for most adult age groups?</string>
-    <string name="T5_End">As you smash through the guardrail and careen towards the jagged rocks below you reflect on the dubious wisdom of stabbing someone while they are driving a car you are in.</string>
-    <string name="T6_End">You bond with the murderer while crooning verses of "Can you feel the love tonight". He drops you off at the next town. Before you go he asks you if you know any good places to dump bodies. You reply: \"Try the pier.\"</string>
-
+    <string name ="T4_End"> ماذا؟ مثل هذا الشرطي! هل تعلم أن حوادث المرور هي السبب الرئيسي الثاني للوفاة غير المقصودة لمعظم الفئات العمرية للبالغين؟ </string>
+    <string name ="T5_End"> أثناء تحطيم الدرابزين ورعايتك تجاه الصخور المتدلية أدناه ، يمكنك التفكير في الحكمة المشكوك فيها في طعن شخص ما أثناء قيادته سيارة كنت فيها. </string>
+    <string name ="T6_End"> أنت تتعايش مع القاتل بينما تسطر الآيات من "هل يمكن أن تشعر بالحب الليلة؟" يسقطك في المدينة القادمة. قبل أن تذهب يسأل إذا كنت تعرف أي أماكن جيدة لتفريغ الجثث. يمكنك الرد: \ "جرّب الرصيف. \" </string>
 </resources>
